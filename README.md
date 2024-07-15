@@ -3,7 +3,7 @@
 
 ![Logo](https://mikeminton.xyz/media/github-mikemintonuk.png)
 
-# Welcome to My GitHub Page'!'
+# Welcome to My GitHub Page
 
 Hi there! I'm Mike Minton—thank you for visiting my GitHub profile. Currently, it's under construction, but feel free to explore my repositories.
 
