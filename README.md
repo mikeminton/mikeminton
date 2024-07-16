@@ -30,26 +30,20 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 [![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,xamarin,codepen,java,github,git&theme=light))](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,xamarin,codepen,java,github,git&theme=dark))](https://skillicons.dev)
-
 ### Web
 
-![html5 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-![css3 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-![javascript logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![jquery logo](https://skillicons.dev/icons?i=jquery)
-![nodejs logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
-![typescript logo](https://skillicons.dev/icons?i=ts)
-![php logo](https://cdn.simpleicons.org/php/777BB4)
-![python logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![postman logo](https://skillicons.dev/icons?i=postman)
-![wordpress logo](https://skillicons.dev/icons?i=wordpress)
-![bootstrap logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
-![laravel logo](https://skillicons.dev/icons?i=laravel)
-![django logo](https://skillicons.dev/icons?i=django)
+[![My Skills](https://skillicons.dev/icons?i=html5,css3,js,jquery,nodejs,ts,php,flask,postman,wordpress,bootstrap,laravel,django,codeigniter&theme=light))](https://skillicons.dev)
+
+![postman logo](https://skillicons.dev/icons?i=)
+![wordpress logo](https://skillicons.dev/icons?i=)
+![bootstrap logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons//bootstrap-original.svg)
+![laravel logo](https://skillicons.dev/icons?i=)
+![django logo](https://skillicons.dev/icons?i=)
 ![codeigniter logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg)
 
 ### Databases
+
+[![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,xamarin,codepen,java,github,git&theme=light))](https://skillicons.dev)
 
 ![mysql logo](https://skillicons.dev/icons?i=mysql)
 ![mongodb logo](https://skillicons.dev/icons?i=mongodb)
@@ -60,6 +54,8 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 ### Apps
 
+[![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,xamarin,codepen,java,github,git&theme=light))](https://skillicons.dev)
+
 ![dot-net logo](https://skillicons.dev/icons?i=dotnet)
 ![xamarin logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg)
 ![dart logo](https://skillicons.dev/icons?i=dart)
@@ -68,6 +64,8 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 ![apple logo](https://cdn.simpleicons.org/apple/000000)
 
 ### Software
+
+[![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,xamarin,codepen,java,github,git&theme=light))](https://skillicons.dev)
 
 ![vscode logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
 ![visualstudio logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg)
