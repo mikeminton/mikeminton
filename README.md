@@ -1,4 +1,3 @@
-
 # mikeminton  
 
 ![Logo](https://mikeminton.xyz/media/github-mikemintonuk.png)
@@ -28,24 +27,24 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 ### Code
 
-<a target = "_blank" href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,codepen,java,github,git&theme=light" alt = "My Coding Skills"></a>
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,codepen,java,github,git&theme=light" alt="My Coding Skills"></a>
 
 ### Web
 
-<a target = "_blank" href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=html,htmx,css,js,jquery,nodejs,ts,php,flask,postman,wordpress,bootstrap,laravel,django&theme=light" alt = "My Web Skills"></a>
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=html,htmx,css,js,jquery,nodejs,ts,php,flask,postman,wordpress,bootstrap,laravel,django&theme=light" alt="My Web Skills"></a>
 
 ### Databases
 
-<a target = "_blank" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase&theme=light" alt="My Database Skills"></a>
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase&theme=light" alt="My Database Skills"></a>
 
 ### Apps
 
-<a target = "_blank" href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=dotnet,dart,flutter,androidstudio,apple,materialui&theme=light" alt = "My App Skills"></a>
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet,dart,flutter,androidstudio,apple,materialui&theme=light" alt="My App Skills"></a>
 
 ### Software
 
-<a target = "_blank" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,ps,ai,xd,pr,figma&theme=light" alt="My Software Skills"></a>
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,ps,ai,xd,pr,figma&theme=light" alt="My Software Skills"></a>
 
-### Sytems
+### Systems
 
-<a target = "_blank" href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,codepen,devto,fastapi,selenium,svg&theme=light" alt = "My System Skills"></a>
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,codepen,devto,fastapi,selenium,svg&theme=light" alt="My System Skills"></a>
