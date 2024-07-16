@@ -28,22 +28,9 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 ### Code
 
-[![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,xamarin,codepen,java,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,xamarin,codepen,java,github,git&theme=light))](https://skillicons.dev)
 
-![abbrobotstudio logo](https://skillicons.dev/icons?i=)
-![dot-net logo](https://skillicons.dev/icons?i=)
-![c logo](https://skillicons.dev/icons?i=c)
-![cplusplus logo](https://skillicons.dev/icons?i=cpp)
-![csharp logo](https://skillicons.dev/icons?i=cs)
-![dart logo](https://skillicons.dev/icons?i=dart)
-![flutter logo](https://skillicons.dev/icons?i=flutter)
-![python logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![flask logo](https://skillicons.dev/icons?i=flask)
-![xamarin logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg)
-![codepen logo](https://skillicons.dev/icons?i=codepen)
-![java logo](https://skillicons.dev/icons?i=java)
-![github logo](https://skillicons.dev/icons?i=github)
-![git logo](https://skillicons.dev/icons?i=git)
+[![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,xamarin,codepen,java,github,git&theme=dark))](https://skillicons.dev)
 
 ### Web
 
