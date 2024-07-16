@@ -28,6 +28,8 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 ### Code
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ![abbrobotstudio logo](https://skillicons.dev/icons?i=bots)
 ![dot-net logo](https://skillicons.dev/icons?i=dotnet)
 ![c logo](https://skillicons.dev/icons?i=c)
