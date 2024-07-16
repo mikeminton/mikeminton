@@ -28,10 +28,10 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 ### Code
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,xamarin,codepen,java,github,git)](https://skillicons.dev)
 
-![abbrobotstudio logo](https://skillicons.dev/icons?i=bots)
-![dot-net logo](https://skillicons.dev/icons?i=dotnet)
+![abbrobotstudio logo](https://skillicons.dev/icons?i=)
+![dot-net logo](https://skillicons.dev/icons?i=)
 ![c logo](https://skillicons.dev/icons?i=c)
 ![cplusplus logo](https://skillicons.dev/icons?i=cpp)
 ![csharp logo](https://skillicons.dev/icons?i=cs)
