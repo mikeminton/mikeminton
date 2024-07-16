@@ -72,4 +72,4 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 ### Systems22
 
-<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,codepen,devto,fastapi,selenium,svg&theme=light" alt="My Skills"></a>
+<a href = "https://skillicons.dev" target = "_blank"><img src = "https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,codepen,devto,fastapi,selenium,svg&theme=light" alt = "My Skills"></a>
