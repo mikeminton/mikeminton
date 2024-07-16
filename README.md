@@ -49,3 +49,27 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 ### Sytems
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,codepen,devto,fastapi,selenium,svg&theme=light)](https://skillicons.dev)
+
+### Code22
+
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,codepen,java,github,git&theme=light" alt="My Skills"></a>
+
+### Web22
+
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=html,htmx,css,js,jquery,nodejs,ts,php,flask,postman,wordpress,bootstrap,laravel,django&theme=light" alt="My Skills"></a>
+
+### Databases22
+
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase&theme=light" alt="My Skills"></a>
+
+### Apps22
+
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet,dart,flutter,androidstudio,apple,materialui&theme=light" alt="My Skills"></a>
+
+### Software22
+
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,ps,ai,xd,pr,figma&theme=light" alt="My Skills"></a>
+
+### Systems22
+
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,codepen,devto,fastapi,selenium,svg&theme=light" alt="My Skills"></a>
