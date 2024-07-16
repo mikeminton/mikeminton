@@ -28,7 +28,7 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 ### Code
 
-<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,codepen,java,github,git&theme=light" alt="My Coding Skills"></a>
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,codepen,java,github,git&theme=light" alt="My Coding Skills"></a>
 
 ### Web
 
