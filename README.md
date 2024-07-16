@@ -38,36 +38,10 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,microsoftsqlserver,firebase&theme=light)](https://skillicons.dev)
 
-![mysql logo](https://skillicons.dev/icons?i=)
-![mongodb logo](https://skillicons.dev/icons?i=)
-![postgresql logo](https://skillicons.dev/icons?i=)
-![sqlite logo](https://skillicons.dev/icons?i=)
-![microsoftsqlserver logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons//microsoftsqlserver-plain.svg)
-![firebase logo](https://skillicons.dev/icons?i=)
-
 ### Apps
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,dart,flutter,android,apple&theme=light)](https://skillicons.dev)
-
-![dot-net logo](https://skillicons.dev/icons?i=dotnet)
-![xamarin logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg)
-![dart logo](https://skillicons.dev/icons?i=dart)
-![flutter logo](https://skillicons.dev/icons?i=flutter)
-![android logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg)
-![apple logo](https://cdn.simpleicons.org/apple/000000)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,dart,flutter,androidstudio,apple&theme=light)](https://skillicons.dev)
 
 ### Software
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,jetbrains,ps,ai,xd,pr,figma,gimp,inkscape&theme=light)](https://skillicons.dev)
-
-![vscode logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
-![visualstudio logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg)
-![androidstudio logo](https://skillicons.dev/icons?i=androidstudio)
-![jetbrains logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg)
-![adobephotoshop logo](https://skillicons.dev/icons?i=ps)
-![adobeillustrator logo](https://skillicons.dev/icons?i=ai)
-![xd logo](https://skillicons.dev/icons?i=xd)
-![adobepremierepro logo](https://skillicons.dev/icons?i=pr)
-![figma logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)
-![gimp logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg)
-![inkscape logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,ps,ai,xd,pr,figma&theme=light)](https://skillicons.dev)
