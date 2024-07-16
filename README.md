@@ -32,7 +32,7 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 ### Web
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,ts,php,flask,postman,wordpress,bootstrap,laravel,django&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,htmx,css,js,jquery,nodejs,ts,php,flask,postman,wordpress,bootstrap,laravel,django&theme=light)](https://skillicons.dev)
 
 ### Databases
 
@@ -40,8 +40,12 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 ### Apps
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,dart,flutter,androidstudio,apple&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,dart,flutter,androidstudio,apple,materialui&theme=light)](https://skillicons.dev)
 
 ### Software
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,ps,ai,xd,pr,figma&theme=light)](https://skillicons.dev)
+
+### Sytems
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,codepen,devto,fastapi,selenium,svg&theme=light)](https://skillicons.dev)
