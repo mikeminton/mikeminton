@@ -36,7 +36,7 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,microsoftsqlserver,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase&theme=light)](https://skillicons.dev)
 
 ### Apps
 
