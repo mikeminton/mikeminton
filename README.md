@@ -28,33 +28,26 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 ### Code
 
-[![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,xamarin,codepen,java,github,git&theme=light))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,codepen,java,github,git&theme=light)](https://skillicons.dev)
 
 ### Web
 
-[![My Skills](https://skillicons.dev/icons?i=html5,css3,js,jquery,nodejs,ts,php,flask,postman,wordpress,bootstrap,laravel,django,codeigniter&theme=light))](https://skillicons.dev)
-
-![postman logo](https://skillicons.dev/icons?i=)
-![wordpress logo](https://skillicons.dev/icons?i=)
-![bootstrap logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons//bootstrap-original.svg)
-![laravel logo](https://skillicons.dev/icons?i=)
-![django logo](https://skillicons.dev/icons?i=)
-![codeigniter logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,ts,php,flask,postman,wordpress,bootstrap,laravel,django&theme=light)](https://skillicons.dev)
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,xamarin,codepen,java,github,git&theme=light))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,microsoftsqlserver,firebase&theme=light)](https://skillicons.dev)
 
-![mysql logo](https://skillicons.dev/icons?i=mysql)
-![mongodb logo](https://skillicons.dev/icons?i=mongodb)
-![postgresql logo](https://skillicons.dev/icons?i=postgres)
-![sqlite logo](https://skillicons.dev/icons?i=sqlite)
-![microsoftsqlserver logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
-![firebase logo](https://skillicons.dev/icons?i=firebase)
+![mysql logo](https://skillicons.dev/icons?i=)
+![mongodb logo](https://skillicons.dev/icons?i=)
+![postgresql logo](https://skillicons.dev/icons?i=)
+![sqlite logo](https://skillicons.dev/icons?i=)
+![microsoftsqlserver logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons//microsoftsqlserver-plain.svg)
+![firebase logo](https://skillicons.dev/icons?i=)
 
 ### Apps
 
-[![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,xamarin,codepen,java,github,git&theme=light))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,dart,flutter,android,apple&theme=light)](https://skillicons.dev)
 
 ![dot-net logo](https://skillicons.dev/icons?i=dotnet)
 ![xamarin logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg)
@@ -65,7 +58,7 @@ Follow me on GitHub to stay updated on my projects and latest developments.
 
 ### Software
 
-[![My Skills](https://skillicons.dev/icons?i=bots,dotnet,c,cpp,cs,dart,flutter,python,flask,xamarin,codepen,java,github,git&theme=light))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,jetbrains,ps,ai,xd,pr,figma,gimp,inkscape&theme=light)](https://skillicons.dev)
 
 ![vscode logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
 ![visualstudio logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg)
