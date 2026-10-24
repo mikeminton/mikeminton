@@ -4,13 +4,13 @@
 
 # Welcome to my GitHub profile
 
-Hi there! I'm Mike Minton—thank you for visiting my GitHub profile. Currently, it's under construction, but feel free to explore my repositories.
+Hi there! I'm Michael Minton—thanks for visiting my GitHub profile. Currently, it's under construction, but feel free to explore my repositories.
 
-I strive to respond as quickly as possible, but if you need a faster response, you can directly contact me via email.
+I strive to respond as quickly as possible, but if you need a faster response, you can contact me directly via email.
 
 ## Repositories
 
-Explore my projects and feel free to contribute or use them as you find useful. Each repository includes detailed documentation on how to get started, how to contribute, and the goals of the project.
+Explore my projects, and feel free to contribute or use them as you see fit. Each repository includes detailed documentation on how to get started, contribute, and the project's goals.
 
 ## Support
 
